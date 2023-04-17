@@ -6,7 +6,7 @@ namespace gitStudy
 {
     internal class Monster
     {
-        protected int hp;
+        protected int hp = 10;
        
     }
 }
